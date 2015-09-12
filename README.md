@@ -7,5 +7,5 @@ The current generation of digital talking book players understand common digital
 
 ### ToDo
  - Simple podcast instructions
- - Helper tool(s) for podcasts on Flash drives
- - Tools for AMR-WB+ or DAISY 2.02 book formats
+ - Helper tool(s) for podcasts on Flash drives.
+ - Tools for [ANSI/NISO Z39.86-2002](http://www.niso.org/workrooms/daisy/Z39-86-2002.html) (aka DAISY 3) or DAISY 2.02 book formats
